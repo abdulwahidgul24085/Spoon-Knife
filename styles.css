@@ -1,6 +1,10 @@
 body{
 	background-color: #000;
 }
+
+section{
+	color:red;
+}
 * {
   margin:0px;
   padding:0px;
